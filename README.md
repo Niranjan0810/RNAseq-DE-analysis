@@ -19,10 +19,10 @@ This project performs differential gene expression analysis using RNA-seq count 
 ## Results
 
 ### Volcano Plot
-![Volcano Plot](results/volcano_final.png)
+![Volcano Plot](volcano_final.png)
 
 ### Heatmap
-![Heatmap](results/heatmap.png)
+![Heatmap](heatmap.png)
 
 ## Key Findings
 - Identified significantly differentially expressed genes (adjusted p-value < 0.05)
