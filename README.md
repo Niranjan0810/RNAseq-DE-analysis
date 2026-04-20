@@ -1,6 +1,5 @@
-# RNA-seq Differential Expression Analysis in R
+# RNA-seq Differential Expression Analysis
 
-## Overview
 This project performs differential gene expression analysis using RNA-seq count data. The analysis identifies significantly upregulated and downregulated genes between two conditions.
 
 ## Tools & Packages
